@@ -1,0 +1,48 @@
+
+Tareas a Hacer:
+1.Formulario de contacto (contacto.html)
+2.Validación JS del formulario de contacto(contacto.html)
+3.Agregar fuente de Google Fonts (todas)
+4.Agregar íconos (FontAwesome o Flaticon) en footer (todas)
+5.Agregar 3 puntos de corte (todas)
+6.Utilizar una API (novedades.html)
+
+
+Contenido de paginas:
+
+En inicio.html:
+header (igual que todos)
+body:
+izq:	Nuestra meta
+cent:	carrusel de fotos 
+der:	Nuestra estilo educativo
+footer (igual que todos)
+
+En administracion.html:
+header (igual que todos)
+body: 
+izq:	
+cent:	aranceles
+der:    comunicados
+footer (igual que todos)
+
+En novedades.html:
+header (igual que todos)
+body: 
+izq:	
+cent:	formas de pago
+der:	
+footer (igual que todos)
+
+En contacto.html:
+header (igual que todos)
+body: 
+izq:	 
+cent:	formulario de contacto
+der:	
+footer (igual que todos)
+
+
+
+
+
