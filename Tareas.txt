@@ -5,7 +5,7 @@ Tareas a Hacer:
 3.Agregar fuente de Google Fonts (todas)
 4.Agregar íconos (FontAwesome o Flaticon) en footer (todas)
 5.Agregar 3 puntos de corte (todas)
-6.Utilizar una API (novedades.html)
+6.Utilizar una API
 
 
 Contenido de paginas:
