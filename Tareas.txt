@@ -7,6 +7,7 @@ Tareas a Hacer:
 5.Agregar 3 puntos de corte (todas)
 6.Utilizar una API
 7. Agregar favicon
+8. Emparejar estilo en todas las paginas
 
 Contenido de paginas:
 
