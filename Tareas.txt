@@ -6,7 +6,7 @@ Tareas a Hacer:
 4.Agregar íconos (FontAwesome o Flaticon) en footer (todas)
 5.Agregar 3 puntos de corte (todas)
 6.Utilizar una API
-
+7. Agregar favicon
 
 Contenido de paginas:
 
