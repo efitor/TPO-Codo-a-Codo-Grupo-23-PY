@@ -1,0 +1,8 @@
+
+Tareas a Hecha
+1.Formulario de contacto (contacto.html) cre desde alli se puede hacer registro.
+2. se realizo un banner para pie de pagina (se creo un .css y .js contacto para presentar solo de ejemplo o una forma ) este despues debera estar integrado en el .css y .js 
+que dara forma y cuerpo a la pagina principal 
+en el contacto.css esta un modelo de punto de cortes probar si va incluir .css principal
+
+
